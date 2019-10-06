@@ -1,0 +1,9 @@
+# post model with information and structure of model 
+
+# see the wordpad tool in admin for the client so see the following link: github.com/aljosa/django-tinymce
+## pip install django-tinymce
+
+for django form modification method
+https://swapps.com/blog/how-to-do-a-wizard-form/
+
+Creative web
